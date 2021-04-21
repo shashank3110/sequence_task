@@ -5,7 +5,8 @@ Sequence Generator Task for a given input.
 ```
 git clone https://github.com/shashank3110/sequence_task
 ```
-## To install requirements in your python virtual environment
+## To install requirements in your python virtual environment 
+#### (No external packages were used, therefore requirements.txt is empty in this case.)
 ```
 cd sequence_task
 pip install requirements.txt
@@ -18,5 +19,5 @@ python src/generate_m_sequences.py
 ## To run tests
 ```
 cd sequence_task
-pytest
+python src/test_generate_sequence.py
 ```
