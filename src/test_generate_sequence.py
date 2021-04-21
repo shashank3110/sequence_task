@@ -1,5 +1,5 @@
 """
-Unit test for sequence generators.
+Unit tests for sequence generators.
 """
 import unittest
 
@@ -9,6 +9,7 @@ from generate_m_sequences import m_sequences
 
 
 class TestGenerateSequences(unittest.TestCase):
+
     def test_sequence(self):
         """ Testing sequence generator for a single m """
 

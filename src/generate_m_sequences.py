@@ -41,7 +41,7 @@ if __name__ == '__main__':
 	c_dict,steps_dict=m_sequences(m=10000,n=10000)
 	end=time.time()
 
-    # Priniting as a Table
+	# Priniting as a Table
 	print(f'm	|	steps')
 	for m,steps in steps_dict.items():
 		print(f'm={m}	|	steps={steps}')
