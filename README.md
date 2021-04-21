@@ -11,7 +11,7 @@ git clone https://github.com/shashank3110/sequence_task
 cd sequence_task
 pip install requirements.txt
 ```
-## To run seuqnece generator and count number of steps.
+## To run sequence generator and count number of steps.
 - For a specific value of m.
 ```
 cd sequence_task
@@ -22,7 +22,7 @@ python src/generate_sequence.py
 cd sequence_task
 python src/generate_m_sequences.py
 ```
-## To run tests
+## To run tests for both the above modules.
 ```
 cd sequence_task
 python src/test_generate_sequence.py
