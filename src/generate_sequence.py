@@ -1,4 +1,7 @@
-
+"""
+Module to compute sequence and number of steps 
+for this sequence given a value of m.
+"""
 
 def sequence(m,n):
     """

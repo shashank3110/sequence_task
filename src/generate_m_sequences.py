@@ -1,3 +1,8 @@
+"""
+Module to compute and display number of steps 
+for all sequences given a range of m.
+"""
+
 from generate_sequence import sequence
 import time
 
