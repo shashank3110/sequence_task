@@ -1,0 +1,2 @@
+# Ignore pycache files for commits
+*.pyc
